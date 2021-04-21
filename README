@@ -1,3 +1,6 @@
 Usage:
 
 ./run_all.sh <IP>
+
+
+NOTE: Must give permissions to scripts manually
